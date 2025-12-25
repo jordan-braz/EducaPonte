@@ -2,6 +2,18 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+## Licenças
+
+Este projeto é open source e segue um modelo de licenciamento híbrido:
+
+- **Código-fonte**: Apache License 2.0  
+  Permite uso, modificação e distribuição, incluindo por instituições públicas
+  e organizações sociais.
+
+- **Conteúdo educacional**: Creative Commons BY-NC-SA 4.0  
+  Permite reutilização e adaptação para fins educacionais, proibindo uso
+  comercial e exigindo compartilhamento das melhorias.
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
